@@ -1,0 +1,8 @@
+AETHERIS ASSUMPTION REGISTRY - EPOCH #982,441
+
+A-048: CPU_SYSTEM_LOAD < 95% = Nominal
+A-017: Fencing Kernel MUST Penn All Zombies
+A-001: L0-L5 SMT-Proofs MUST return UNSAT
+
+All invariants held. Status: PASS
+Date: 2026-06-18
